@@ -13,16 +13,16 @@
     "reasoning": true
   },
   "pricing": {
-    "input": 0.02,
+    "input": 0.04,
     "output": 0.19
   },
-  "last_updated": "2026-10-31",
+  "last_updated": "2026-11-01",
   "_generated": {
     "name": "7473ca5f",
     "family": "4b81b92d",
     "context_window": "8155bc54",
     "model_type": "d669f408",
     "capabilities": "a19166f1",
-    "pricing": "59abb158"
+    "pricing": "af974f19"
   }
 }
