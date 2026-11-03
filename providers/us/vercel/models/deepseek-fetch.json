@@ -1,0 +1,19 @@
+{
+  "id": "deepseek/fetch",
+  "name": "fetch",
+  "created_by": "deepseek",
+  "source": "official",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "last_updated": "2026-11-03",
+  "_generated": {
+    "name": "33128cde",
+    "capabilities": "0fa77dc6",
+    "pricing": "9a7a9781"
+  }
+}

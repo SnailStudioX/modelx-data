@@ -3,7 +3,7 @@
   "name": "DeepSeek-V4-Pro",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-03",
   "family": "deepseek-v4",
   "description": "DeepSeek V4 Pro is an MoE model with 1.6T total parameters (49B active) and a 1M-token context window. It's built for advanced reasoning, coding, and long-running agent tasks, and performs well on knowledge, math, and software engineering benchmarks.",
   "status": "active",
@@ -15,6 +15,7 @@
     "tool_call": true,
     "structured_output": true,
     "json_mode": true,
+    "reasoning": true,
     "streaming": true
   },
   "modalities": {
@@ -47,12 +48,14 @@
     "context_window": "7d28a051",
     "open_weight": "b326b506",
     "license": "4b81b92d",
-    "capabilities": "ef09f446",
+    "capabilities": "a17ad43b",
     "modalities": "68e53d93",
     "pricing": "7f6d4b5b",
     "tools": "f0c1dc7e",
     "endpoints": "d8fa1080",
     "quantization": "0e8a48ee",
-    "tagline": "a1f91fc8"
-  }
+    "tagline": "a1f91fc8",
+    "reasoning_tokens": "b326b506"
+  },
+  "reasoning_tokens": true
 }

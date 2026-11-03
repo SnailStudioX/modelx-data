@@ -12,6 +12,7 @@
     "tool_call": true,
     "structured_output": true,
     "json_mode": true,
+    "reasoning": true,
     "streaming": true
   },
   "modalities": {
@@ -34,7 +35,7 @@
     "function_calling"
   ],
   "open_weight": true,
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-03",
   "_generated": {
     "name": "f03c4f0c",
     "description": "bf959edc",
@@ -42,11 +43,13 @@
     "context_window": "7d28a051",
     "model_type": "d669f408",
     "license": "4b81b92d",
-    "capabilities": "ef09f446",
+    "capabilities": "a17ad43b",
     "modalities": "68e53d93",
     "pricing": "7f6d4b5b",
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e",
-    "open_weight": "b326b506"
-  }
+    "open_weight": "b326b506",
+    "reasoning_tokens": "b326b506"
+  },
+  "reasoning_tokens": true
 }

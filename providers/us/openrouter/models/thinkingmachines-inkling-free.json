@@ -21,7 +21,7 @@
       "text"
     ]
   },
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-03",
   "_generated": {
     "name": "6be12a06",
     "description": "f2a134f0",
@@ -29,6 +29,10 @@
     "context_window": "7d28a051",
     "max_output_tokens": "4a1d32eb",
     "capabilities": "05723a3e",
-    "modalities": "05efe8aa"
-  }
+    "modalities": "05efe8aa",
+    "status": "2e2f74dc",
+    "deprecation_date": "382007fc"
+  },
+  "status": "deprecated",
+  "deprecation_date": "2026-11-04"
 }

@@ -3,7 +3,7 @@
   "name": "Stable Image Ultra 1.0",
   "created_by": "stability",
   "source": "official",
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-03",
   "model_type": "image",
   "modalities": {
     "input": [
