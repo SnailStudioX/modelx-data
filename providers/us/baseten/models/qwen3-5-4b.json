@@ -3,7 +3,7 @@
   "name": "qwen3-5-4b",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-11-04",
   "family": "qwen3",
   "parameters": 4,
   "open_weight": true,
@@ -12,8 +12,12 @@
     "streaming": true
   },
   "modalities": {
-    "input": ["text"],
-    "output": ["text"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
   },
   "_generated": {
     "name": "760898c8",

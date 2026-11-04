@@ -1,0 +1,27 @@
+{
+  "id": "mistral-small-3-1",
+  "name": "mistral-small-3-1",
+  "created_by": "mistral",
+  "source": "official",
+  "family": "mistral-small",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-11-04",
+  "_generated": {
+    "name": "42c72a15",
+    "family": "275918a5",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

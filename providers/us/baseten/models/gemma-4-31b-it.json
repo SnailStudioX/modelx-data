@@ -11,8 +11,12 @@
     "streaming": true
   },
   "modalities": {
-    "input": ["text"],
-    "output": ["text"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
   },
   "_generated": {
     "name": "80cf5031",
@@ -23,5 +27,5 @@
     "capabilities": "0fa77dc6",
     "modalities": "68e53d93"
   },
-  "last_updated": "2026-04-03"
+  "last_updated": "2026-11-04"
 }

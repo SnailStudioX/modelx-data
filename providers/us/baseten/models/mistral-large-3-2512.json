@@ -1,0 +1,27 @@
+{
+  "id": "mistral-large-3-2512",
+  "name": "mistral-large-3-2512",
+  "created_by": "mistral",
+  "source": "official",
+  "family": "mistral-large",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-11-04",
+  "_generated": {
+    "name": "dd487553",
+    "family": "70f9d51d",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

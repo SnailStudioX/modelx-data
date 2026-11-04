@@ -3,7 +3,7 @@
   "name": "inkling",
   "created_by": "thinkingmachines",
   "source": "official",
-  "context_window": 524300,
+  "context_window": 262100,
   "model_type": "chat",
   "capabilities": {
     "streaming": true,
@@ -12,15 +12,15 @@
     "reasoning": true
   },
   "pricing": {
-    "input": 0.95,
+    "input": 1,
     "output": 4.05
   },
-  "last_updated": "2026-11-03",
+  "last_updated": "2026-11-04",
   "_generated": {
     "name": "6738f66c",
-    "context_window": "e1786268",
+    "context_window": "b23f4471",
     "model_type": "d669f408",
     "capabilities": "a19166f1",
-    "pricing": "3f843b11"
+    "pricing": "ecedf81e"
   }
 }

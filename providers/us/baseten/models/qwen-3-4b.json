@@ -1,0 +1,29 @@
+{
+  "id": "qwen-3-4b",
+  "name": "qwen-3-4b",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen",
+  "parameters": 4,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-11-04",
+  "_generated": {
+    "name": "10314cce",
+    "family": "a3af76f3",
+    "parameters": "a87ff679",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

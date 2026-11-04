@@ -1,0 +1,27 @@
+{
+  "id": "openmoss-team-moss-image",
+  "name": "OpenMOSS-Team/MOSS-Image",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "siliconflow",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-11-04",
+  "_generated": {
+    "name": "d44f031e",
+    "family": "204baa33",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93"
+  }
+}

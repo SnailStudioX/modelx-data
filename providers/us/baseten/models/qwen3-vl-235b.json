@@ -1,0 +1,29 @@
+{
+  "id": "qwen3-vl-235b",
+  "name": "qwen3-vl-235b",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3",
+  "parameters": 235,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-11-04",
+  "_generated": {
+    "name": "393b8682",
+    "family": "48c385a0",
+    "parameters": "577ef115",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

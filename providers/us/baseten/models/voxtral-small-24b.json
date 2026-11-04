@@ -1,0 +1,29 @@
+{
+  "id": "voxtral-small-24b",
+  "name": "voxtral-small-24b",
+  "created_by": "unknown",
+  "source": "official",
+  "family": "voxtral",
+  "parameters": 24,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-11-04",
+  "_generated": {
+    "name": "7061d760",
+    "family": "88a5dabd",
+    "parameters": "1ff1de77",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}
