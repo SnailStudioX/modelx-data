@@ -1,0 +1,41 @@
+{
+  "id": "kimi-k3.1-pro",
+  "name": "kimi-k3.1-pro",
+  "created_by": "moonshot",
+  "source": "official",
+  "family": "kimi-k3.1",
+  "description": "Kimi K3.1 Pro is an open-weight, natively multimodal agentic model and our most capable 3T-class model to date, with a 1M-token context window and major gains in coding, 3D creation, financial research, and factual accuracy.",
+  "release_date": "2026-11-04",
+  "license": "open-weight",
+  "page_url": "https://ollama.com/library/kimi-k3.1-pro",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "reasoning_tokens": true,
+  "open_weight": true,
+  "last_updated": "2026-11-05",
+  "_generated": {
+    "name": "72a705c5",
+    "family": "90fce409",
+    "description": "80b2a76e",
+    "release_date": "382007fc",
+    "license": "6327aaea",
+    "page_url": "77f2b77f",
+    "capabilities": "a19166f1",
+    "modalities": "6399757e",
+    "reasoning_tokens": "b326b506",
+    "open_weight": "b326b506"
+  }
+}

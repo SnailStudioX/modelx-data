@@ -1,0 +1,37 @@
+{
+  "id": "autotrust-jev",
+  "name": "autotrust-jev",
+  "created_by": "unknown",
+  "source": "official",
+  "description": "AutoTrust’s decision models return choices, yes/no probabilities, and ratings for the questions you supply",
+  "context_window": 262144,
+  "license": "apache-2.0",
+  "parameters": 9,
+  "page_url": "https://ollama.com/library/autotrust-jev",
+  "capabilities": {
+    "streaming": true,
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-11-05",
+  "_generated": {
+    "name": "68f7a26a",
+    "description": "bea797db",
+    "context_window": "4a1d32eb",
+    "license": "60245731",
+    "parameters": "45c48cce",
+    "page_url": "51045b47",
+    "capabilities": "8a3b232e",
+    "modalities": "6399757e",
+    "open_weight": "b326b506"
+  }
+}

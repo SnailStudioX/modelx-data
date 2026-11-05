@@ -1,0 +1,26 @@
+{
+  "id": "tencent/hy4",
+  "name": "hy4",
+  "created_by": "tencent",
+  "source": "official",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.42,
+    "output": 1.25
+  },
+  "last_updated": "2026-11-05",
+  "_generated": {
+    "name": "d7fff7ed",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "9ec0935d"
+  }
+}

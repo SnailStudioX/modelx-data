@@ -1,0 +1,40 @@
+{
+  "id": "ricursiveai/ripple-65b-preview",
+  "name": "ricursiveAI/Ripple-65B-Preview",
+  "created_by": "ricursiveai",
+  "source": "official",
+  "description": "Ripple-65B-Preview by ricursiveAI, a 65B model with native tool calling, served in BF16.",
+  "release_date": "2026-11-04",
+  "context_window": 1048576,
+  "max_output_tokens": 131072,
+  "parameters": 65,
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.2,
+    "output": 0.6,
+    "cached_input": 0.05
+  },
+  "last_updated": "2026-11-05",
+  "_generated": {
+    "name": "8bab045e",
+    "description": "f08cc2c2",
+    "release_date": "382007fc",
+    "context_window": "7d28a051",
+    "max_output_tokens": "f7de594e",
+    "parameters": "fc490ca4",
+    "capabilities": "ad177261",
+    "modalities": "68e53d93",
+    "pricing": "3082b311"
+  }
+}
