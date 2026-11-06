@@ -3,7 +3,7 @@
   "name": "Meshy 6",
   "created_by": "fal",
   "source": "official",
-  "description": "Meshy-6 is the latest model from Meshy.",
+  "description": "Meshy 6 generates 3D models from text prompts.",
   "status": "active",
   "release_date": "2026-02-09",
   "model_type": "other",
@@ -12,7 +12,7 @@
   "last_seen_at": "2026-06-17",
   "_generated": {
     "name": "45976d25",
-    "description": "086dd32b",
+    "description": "b4245718",
     "status": "379ac110",
     "release_date": "4b53817b",
     "model_type": "ddb0b7bc",
@@ -20,5 +20,5 @@
     "tagline": "086dd32b",
     "last_seen_at": "e050aed5"
   },
-  "last_updated": "2026-11-05"
+  "last_updated": "2026-11-06"
 }

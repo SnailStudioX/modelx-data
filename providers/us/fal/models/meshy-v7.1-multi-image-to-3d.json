@@ -3,7 +3,7 @@
   "name": "Meshy 7.1 Multi Image to 3D",
   "created_by": "meshy",
   "source": "official",
-  "description": "Meshy 7.1 generates textured 3D models from one to four views of the same object, with polygon count, topology, symmetry, and optional PBR texture controls.",
+  "description": "Meshy 7.1 is the latest standard model from Meshy.",
   "status": "active",
   "release_date": "2026-09-19",
   "model_type": "other",
@@ -11,10 +11,10 @@
   "capabilities": {
     "vision": true
   },
-  "last_updated": "2026-11-05",
+  "last_updated": "2026-11-06",
   "_generated": {
     "name": "8af28910",
-    "description": "4b74b4c5",
+    "description": "8aecd734",
     "status": "379ac110",
     "release_date": "05663993",
     "model_type": "ddb0b7bc",
