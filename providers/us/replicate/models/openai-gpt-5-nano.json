@@ -11,10 +11,16 @@
     "streaming": true
   },
   "modalities": {
-    "input": ["text"],
-    "output": ["text"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
   },
-  "endpoints": ["chat_completions"],
+  "endpoints": [
+    "chat_completions"
+  ],
   "_generated": {
     "name": "60ef218d",
     "family": "aa904c16",
@@ -25,5 +31,5 @@
     "modalities": "68e53d93",
     "endpoints": "d8fa1080"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-11-07"
 }

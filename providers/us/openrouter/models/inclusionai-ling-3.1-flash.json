@@ -20,7 +20,7 @@
       "text"
     ]
   },
-  "last_updated": "2026-11-06",
+  "last_updated": "2026-11-07",
   "_generated": {
     "name": "7b629fd5",
     "description": "797ef96c",
@@ -29,11 +29,11 @@
     "max_output_tokens": "4a1d32eb",
     "capabilities": "f533f522",
     "modalities": "68e53d93",
-    "pricing": "8f83a570"
+    "pricing": "6ae4395b"
   },
   "pricing": {
-    "input": 0.075,
-    "output": 0.225,
-    "cached_input": 0.015
+    "input": 0.045,
+    "output": 0.135,
+    "cached_input": 0.009
   }
 }

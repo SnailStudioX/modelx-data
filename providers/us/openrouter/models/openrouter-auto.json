@@ -3,7 +3,7 @@
   "name": "Auto Router",
   "created_by": "openrouter",
   "source": "official",
-  "last_updated": "2026-11-06",
+  "last_updated": "2026-11-07",
   "description": "Auto is OpenRouter’s flagship model router, built for general-purpose usage.",
   "context_window": 2000000,
   "modalities": {
