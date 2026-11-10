@@ -17,7 +17,7 @@
       "text"
     ]
   },
-  "last_updated": "2026-11-09",
+  "last_updated": "2026-11-10",
   "_generated": {
     "name": "ccd804b0",
     "description": "47df2bf6",
@@ -25,12 +25,12 @@
     "context_window": "8155bc54",
     "modalities": "b7a3ac68",
     "capabilities": "f533f522",
-    "max_output_tokens": "297ce0b3"
+    "max_output_tokens": "762e98db"
   },
   "capabilities": {
     "tool_call": true,
     "structured_output": true,
     "reasoning": true
   },
-  "max_output_tokens": 65536
+  "max_output_tokens": 64000
 }

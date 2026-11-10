@@ -1,0 +1,28 @@
+{
+  "id": "anthropic/claude-fable-5.2",
+  "name": "claude-fable-5.2",
+  "created_by": "anthropic",
+  "source": "official",
+  "family": "claude-fable",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 8,
+    "output": 40
+  },
+  "last_updated": "2026-11-10",
+  "_generated": {
+    "name": "cfd6cdb0",
+    "family": "127f43cd",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "34a9e8c0"
+  }
+}
