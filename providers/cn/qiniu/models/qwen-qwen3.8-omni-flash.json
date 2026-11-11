@@ -1,0 +1,39 @@
+{
+  "id": "qwen-qwen3.8-omni-flash",
+  "name": "Qwen3.8-Omni-Flash",
+  "created_by": "aliyun",
+  "source": "official",
+  "family": "qwen",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "output": 2.7
+  },
+  "last_updated": "2026-11-11",
+  "_generated": {
+    "name": "c8e34d3d",
+    "family": "a3af76f3",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "0946b777",
+    "modalities": "0843b982",
+    "pricing": "9e66ad68"
+  }
+}

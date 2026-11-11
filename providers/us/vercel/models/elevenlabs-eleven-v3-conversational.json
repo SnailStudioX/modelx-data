@@ -7,13 +7,13 @@
     "streaming": true
   },
   "pricing": {
-    "input": 20,
+    "input": 40,
     "output": 0
   },
-  "last_updated": "2026-11-10",
+  "last_updated": "2026-11-11",
   "_generated": {
     "name": "6563f531",
     "capabilities": "0fa77dc6",
-    "pricing": "fca5cb8c"
+    "pricing": "461975bc"
   }
 }

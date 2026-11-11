@@ -18,10 +18,10 @@
     "video"
   ],
   "pricing_notes": [
-    "$0.06 / second"
+    "from $0.03 / second"
   ],
   "open_weight": false,
-  "last_updated": "2026-11-10",
+  "last_updated": "2026-11-11",
   "_generated": {
     "name": "b0a80015",
     "description": "e52701e0",
@@ -29,7 +29,7 @@
     "model_type": "4d1b75ca",
     "modalities": "94e5e9ab",
     "endpoints": "7a78c070",
-    "pricing_notes": "c391040f",
+    "pricing_notes": "d610db68",
     "open_weight": "68934a3e"
   }
 }
