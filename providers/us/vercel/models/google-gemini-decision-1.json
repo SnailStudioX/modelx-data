@@ -1,0 +1,22 @@
+{
+  "id": "google/gemini-decision-1",
+  "name": "gemini-decision-1",
+  "created_by": "google",
+  "source": "official",
+  "context_window": 262100,
+  "capabilities": {
+    "streaming": true,
+    "vision": true
+  },
+  "pricing": {
+    "input": 0.1,
+    "output": 0
+  },
+  "last_updated": "2026-11-12",
+  "_generated": {
+    "name": "a3a44efd",
+    "context_window": "b23f4471",
+    "capabilities": "8a3b232e",
+    "pricing": "fceb22e8"
+  }
+}

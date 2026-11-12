@@ -4,16 +4,17 @@
   "created_by": "bytedance",
   "source": "official",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "vision": true
   },
   "pricing": {
     "input": 0,
     "output": 0
   },
-  "last_updated": "2026-11-11",
+  "last_updated": "2026-11-12",
   "_generated": {
     "name": "156d2ffd",
-    "capabilities": "0fa77dc6",
+    "capabilities": "8a3b232e",
     "pricing": "9a7a9781"
   }
 }

@@ -1,0 +1,34 @@
+{
+  "id": "pixverse/v6/max/text-to-video",
+  "name": "PixVerse V6 Max Text To Video",
+  "created_by": "pixverse",
+  "source": "official",
+  "description": "Generate videos from text with PixVerse V6 Max, with optional audio and multi-clip generation.",
+  "status": "active",
+  "release_date": "2026-10-20",
+  "model_type": "video",
+  "page_url": "https://fal.run/pixverse/v6/max/text-to-video",
+  "modalities": {
+    "input": [
+      "text",
+      "audio"
+    ],
+    "output": [
+      "video"
+    ]
+  },
+  "endpoints": [
+    "video"
+  ],
+  "last_updated": "2026-11-12",
+  "_generated": {
+    "name": "f96e029a",
+    "description": "c2988b60",
+    "status": "379ac110",
+    "release_date": "d322d85c",
+    "model_type": "4d1b75ca",
+    "page_url": "1c39105e",
+    "modalities": "135102b7",
+    "endpoints": "7a78c070"
+  }
+}
