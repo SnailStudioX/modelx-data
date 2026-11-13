@@ -1,0 +1,26 @@
+{
+  "id": "paperinstruments/ultramarine-1-flash",
+  "name": "ultramarine-1-flash",
+  "created_by": "paperinstruments",
+  "source": "official",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.15,
+    "output": 0.5
+  },
+  "last_updated": "2026-11-13",
+  "_generated": {
+    "name": "80796a5b",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "c74fbef8"
+  }
+}
