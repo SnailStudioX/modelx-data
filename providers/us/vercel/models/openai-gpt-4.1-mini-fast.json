@@ -1,0 +1,27 @@
+{
+  "id": "openai/gpt-4.1-mini-fast",
+  "name": "gpt-4.1-mini-fast",
+  "created_by": "openai",
+  "source": "official",
+  "family": "gpt-4.1",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 0.7,
+    "output": 2.8
+  },
+  "last_updated": "2026-11-14",
+  "_generated": {
+    "name": "ba8631bb",
+    "family": "d240daf4",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "fc36814c",
+    "pricing": "0231c467"
+  }
+}

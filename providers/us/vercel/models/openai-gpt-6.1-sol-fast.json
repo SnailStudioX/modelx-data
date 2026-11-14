@@ -1,0 +1,26 @@
+{
+  "id": "openai/gpt-6.1-sol-fast",
+  "name": "gpt-6.1-sol-fast",
+  "created_by": "openai",
+  "source": "official",
+  "context_window": 1100000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 4,
+    "output": 20
+  },
+  "last_updated": "2026-11-14",
+  "_generated": {
+    "name": "247b8c90",
+    "context_window": "6d81e421",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "7b432ec6"
+  }
+}

@@ -8,6 +8,7 @@
   "context_window": 261795,
   "max_output_tokens": 235615,
   "capabilities": {
+    "tool_call": true,
     "structured_output": true,
     "reasoning": true
   },
@@ -24,14 +25,14 @@
     "output": 0.8,
     "cached_input": 0.04
   },
-  "last_updated": "2026-11-13",
+  "last_updated": "2026-11-14",
   "_generated": {
     "name": "84684cbc",
     "description": "3e7a30c8",
     "release_date": "0a938750",
     "context_window": "ca1fe6a0",
     "max_output_tokens": "7cf8d88d",
-    "capabilities": "ee598c3a",
+    "capabilities": "f533f522",
     "modalities": "68e53d93",
     "pricing": "010ffb9e"
   }

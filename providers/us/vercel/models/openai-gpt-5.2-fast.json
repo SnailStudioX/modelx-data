@@ -1,0 +1,28 @@
+{
+  "id": "openai/gpt-5.2-fast",
+  "name": "gpt-5.2-fast",
+  "created_by": "openai",
+  "source": "official",
+  "family": "gpt-5.2",
+  "context_window": 400000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 3.5,
+    "output": 28
+  },
+  "last_updated": "2026-11-14",
+  "_generated": {
+    "name": "112cbfcb",
+    "family": "f580564d",
+    "context_window": "2a3a2d28",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "74052922"
+  }
+}

@@ -22,11 +22,11 @@
     ]
   },
   "pricing": {
-    "input": 0.2,
-    "output": 0.6,
-    "cached_input": 0.05
+    "input": 0.1,
+    "output": 0.3,
+    "cached_input": 0.025
   },
-  "last_updated": "2026-11-13",
+  "last_updated": "2026-11-14",
   "_generated": {
     "name": "774fd251",
     "description": "f08cc2c2",
@@ -36,6 +36,6 @@
     "parameters": "fc490ca4",
     "capabilities": "f533f522",
     "modalities": "68e53d93",
-    "pricing": "3082b311"
+    "pricing": "5abe0029"
   }
 }

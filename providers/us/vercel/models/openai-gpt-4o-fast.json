@@ -1,0 +1,27 @@
+{
+  "id": "openai/gpt-4o-fast",
+  "name": "gpt-4o-fast",
+  "created_by": "openai",
+  "source": "official",
+  "family": "gpt-4o",
+  "context_window": 128000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 4.25,
+    "output": 17
+  },
+  "last_updated": "2026-11-14",
+  "_generated": {
+    "name": "453435f8",
+    "family": "15249632",
+    "context_window": "34434798",
+    "model_type": "d669f408",
+    "capabilities": "fc36814c",
+    "pricing": "c15921bd"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "openai/gpt-6-astra-fast",
+  "name": "gpt-6-astra-fast",
+  "created_by": "openai",
+  "source": "official",
+  "context_window": 1100000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 20,
+    "output": 100
+  },
+  "last_updated": "2026-11-14",
+  "_generated": {
+    "name": "69e8b5fc",
+    "context_window": "6d81e421",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "e784f36e"
+  }
+}
