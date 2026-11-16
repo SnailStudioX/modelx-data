@@ -10,9 +10,7 @@
   "active_parameters": 23,
   "page_url": "https://ollama.com/library/beam",
   "capabilities": {
-    "streaming": true,
-    "tool_call": true,
-    "reasoning": true
+    "streaming": true
   },
   "modalities": {
     "input": [
@@ -24,7 +22,7 @@
   },
   "reasoning_tokens": true,
   "open_weight": true,
-  "last_updated": "2026-11-15",
+  "last_updated": "2026-11-16",
   "_generated": {
     "name": "c18155c6",
     "description": "c1fcd03e",
@@ -33,7 +31,7 @@
     "parameters": "5b69b9cb",
     "active_parameters": "37693cfc",
     "page_url": "34c2f2e7",
-    "capabilities": "a281e83a",
+    "capabilities": "0fa77dc6",
     "modalities": "68e53d93",
     "reasoning_tokens": "b326b506",
     "open_weight": "b326b506"
