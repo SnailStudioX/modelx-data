@@ -7,7 +7,7 @@
   "description": "Qwen4 Max is the flagship model in Alibaba's Qwen4 series.",
   "release_date": "2026-11-16",
   "context_window": 1000000,
-  "max_output_tokens": 393216,
+  "max_output_tokens": 131072,
   "capabilities": {
     "tool_call": true,
     "structured_output": true,
@@ -24,20 +24,20 @@
     ]
   },
   "pricing": {
-    "input": 1.5,
-    "output": 4.5,
-    "cached_input": 0.075
+    "input": 1.425,
+    "output": 4.275,
+    "cached_input": 0.071
   },
-  "last_updated": "2026-11-16",
+  "last_updated": "2026-11-17",
   "_generated": {
     "name": "d316a37f",
     "family": "ba67260b",
     "description": "87f2fd88",
     "release_date": "56e9ce3f",
     "context_window": "8155bc54",
-    "max_output_tokens": "628f482c",
+    "max_output_tokens": "f7de594e",
     "capabilities": "f533f522",
     "modalities": "3ad4060a",
-    "pricing": "82dfc53b"
+    "pricing": "2fdb460f"
   }
 }
