@@ -1,0 +1,16 @@
+{
+  "id": "moonshotai/kimi-k3.1-pro",
+  "name": "kimi-k3.1-pro",
+  "created_by": "moonshot",
+  "source": "official",
+  "family": "kimi-k3.1",
+  "capabilities": {
+    "streaming": true
+  },
+  "last_updated": "2026-11-18",
+  "_generated": {
+    "name": "72a705c5",
+    "family": "90fce409",
+    "capabilities": "0fa77dc6"
+  }
+}

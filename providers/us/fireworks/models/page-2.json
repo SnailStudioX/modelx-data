@@ -1,0 +1,22 @@
+{
+  "id": "page/2",
+  "name": "2",
+  "created_by": "page",
+  "source": "official",
+  "page_url": "https://fireworks.ai/models/page/2",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1.2,
+    "output": 1.25,
+    "cached_input": 1.2
+  },
+  "last_updated": "2026-11-18",
+  "_generated": {
+    "name": "39c6844c",
+    "page_url": "6255c43e",
+    "capabilities": "0fa77dc6",
+    "pricing": "533c81ae"
+  }
+}

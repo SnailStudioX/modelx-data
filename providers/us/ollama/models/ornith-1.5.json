@@ -9,7 +9,9 @@
   "page_url": "https://ollama.com/library/ornith-1.5",
   "capabilities": {
     "streaming": true,
-    "vision": true
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
   },
   "modalities": {
     "input": [
@@ -21,15 +23,17 @@
     ]
   },
   "open_weight": true,
-  "last_updated": "2026-10-16",
+  "last_updated": "2026-11-18",
   "_generated": {
     "name": "d389c3c6",
     "description": "b5a3a947",
     "context_window": "4a1d32eb",
     "license": "6327aaea",
     "page_url": "6c951c6e",
-    "capabilities": "8a3b232e",
+    "capabilities": "a19166f1",
     "modalities": "6399757e",
-    "open_weight": "b326b506"
-  }
+    "open_weight": "b326b506",
+    "reasoning_tokens": "b326b506"
+  },
+  "reasoning_tokens": true
 }

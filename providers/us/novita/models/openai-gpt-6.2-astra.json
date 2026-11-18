@@ -1,0 +1,45 @@
+{
+  "id": "openai/gpt-6.2-astra",
+  "name": "openai/gpt-6.2-astra",
+  "created_by": "openai",
+  "source": "official",
+  "status": "active",
+  "release_date": "2026-11-18",
+  "context_window": 1050000,
+  "max_output_tokens": 128000,
+  "model_type": "chat",
+  "capabilities": {
+    "tool_call": true,
+    "reasoning": true,
+    "structured_output": true,
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 8,
+    "output": 40
+  },
+  "endpoints": [
+    "chat_completions"
+  ],
+  "last_updated": "2026-11-18",
+  "_generated": {
+    "name": "98ed0c2e",
+    "status": "379ac110",
+    "release_date": "1b67f42e",
+    "context_window": "f170ebb2",
+    "max_output_tokens": "34434798",
+    "model_type": "d669f408",
+    "capabilities": "2fe47005",
+    "modalities": "68e53d93",
+    "pricing": "34a9e8c0",
+    "endpoints": "d8fa1080"
+  }
+}

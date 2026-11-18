@@ -3,7 +3,7 @@
   "name": "GPT-6 series",
   "created_by": "openai",
   "source": "official",
-  "description": "NEW gpt-6-astra , NEW gpt-6-luna , gpt-6-sol",
+  "description": "gpt-6-astra , NEW gpt-6-luna , gpt-6-sol",
   "capabilities": {
     "streaming": true
   },
@@ -15,10 +15,10 @@
       "text"
     ]
   },
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-18",
   "_generated": {
     "name": "54ad66c7",
-    "description": "8256e10f",
+    "description": "974d7356",
     "capabilities": "0fa77dc6",
     "modalities": "68e53d93"
   }

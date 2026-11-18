@@ -1,0 +1,25 @@
+{
+  "id": "gpt-6.2",
+  "name": "GPT-6.2 series",
+  "created_by": "openai",
+  "source": "official",
+  "description": "NEW gpt-6.2-astra , NEW gpt-6.2-sol",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-11-18",
+  "_generated": {
+    "name": "1119f810",
+    "description": "b06cd93b",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93"
+  }
+}
