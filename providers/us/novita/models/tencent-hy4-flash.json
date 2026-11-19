@@ -24,13 +24,13 @@
     ]
   },
   "pricing": {
-    "input": 0.07,
-    "output": 0.281
+    "input": 0.035,
+    "output": 0.141
   },
   "endpoints": [
     "chat_completions"
   ],
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-19",
   "_generated": {
     "name": "aaa999f2",
     "description": "14097264",
@@ -41,7 +41,7 @@
     "model_type": "d669f408",
     "capabilities": "2fe47005",
     "modalities": "68e53d93",
-    "pricing": "cb2dd3ae",
+    "pricing": "396755ff",
     "endpoints": "d8fa1080"
   }
 }

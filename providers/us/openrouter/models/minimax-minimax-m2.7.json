@@ -3,7 +3,7 @@
   "name": "MiniMax: MiniMax M2.7",
   "created_by": "minimax",
   "source": "official",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-19",
   "description": "MiniMax-M2.7 is a next-generation large language model designed for autonomous, real-world productivity and continuous improvement.",
   "context_window": 196608,
   "max_output_tokens": 176947,
