@@ -1,0 +1,41 @@
+{
+  "id": "hy4",
+  "name": "hy4",
+  "created_by": "unknown",
+  "source": "official",
+  "description": "Tencent&#39;s flagship 770B open-weight model for coding, office work and research, with a 1M-token context and image and video understanding.",
+  "release_date": "2026-11-19",
+  "license": "open-weight",
+  "parameters": 770,
+  "page_url": "https://ollama.com/library/hy4",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "reasoning_tokens": true,
+  "open_weight": true,
+  "last_updated": "2026-11-22",
+  "_generated": {
+    "name": "d7fff7ed",
+    "description": "60f8f9a1",
+    "release_date": "8ca45baf",
+    "license": "6327aaea",
+    "parameters": "4ea06fbc",
+    "page_url": "e97a7be2",
+    "capabilities": "a19166f1",
+    "modalities": "6399757e",
+    "reasoning_tokens": "b326b506",
+    "open_weight": "b326b506"
+  }
+}
