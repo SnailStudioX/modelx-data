@@ -23,7 +23,7 @@
     "input": 0.2,
     "output": 0.2
   },
-  "last_updated": "2026-11-22",
+  "last_updated": "2026-11-23",
   "_generated": {
     "name": "32412560",
     "description": "6ac8ad33",
@@ -32,6 +32,10 @@
     "max_output_tokens": "242f56a4",
     "capabilities": "7107421f",
     "modalities": "6399757e",
-    "pricing": "ee3b139d"
-  }
+    "pricing": "ee3b139d",
+    "status": "2e2f74dc",
+    "deprecation_date": "2573f3da"
+  },
+  "status": "deprecated",
+  "deprecation_date": "2026-11-30"
 }
