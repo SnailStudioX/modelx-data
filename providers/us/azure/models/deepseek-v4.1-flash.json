@@ -1,6 +1,6 @@
 {
   "id": "deepseek-v4.1-flash",
-  "name": "DeepSeek-V4.1-Flash",
+  "name": "DeepSeek-V4.1-Flash Preview",
   "created_by": "deepseek",
   "source": "official",
   "family": "deepseek",
@@ -18,9 +18,9 @@
       "text"
     ]
   },
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-24",
   "_generated": {
-    "name": "89a287d3",
+    "name": "5f6610a1",
     "family": "4b81b92d",
     "capabilities": "3181ba37",
     "modalities": "68e53d93"

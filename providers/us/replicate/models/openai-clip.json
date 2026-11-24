@@ -1,0 +1,16 @@
+{
+  "id": "openai/clip",
+  "name": "Clip",
+  "created_by": "openai",
+  "source": "official",
+  "status": "active",
+  "model_type": "other",
+  "page_url": "https://replicate.com/openai/clip",
+  "last_updated": "2026-11-24",
+  "_generated": {
+    "name": "eb18d77b",
+    "status": "379ac110",
+    "model_type": "ddb0b7bc",
+    "page_url": "dc62cedb"
+  }
+}

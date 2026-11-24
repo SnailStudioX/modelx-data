@@ -1,6 +1,6 @@
 {
   "id": "cohere-embed-v5-pro",
-  "name": "Cohere-embed-v5-Pro Preview",
+  "name": "Cohere-Embed-V5-Pro Preview",
   "created_by": "cohere",
   "source": "official",
   "capabilities": {
@@ -16,9 +16,9 @@
       "text"
     ]
   },
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-24",
   "_generated": {
-    "name": "56f9a7e9",
+    "name": "569be5ae",
     "capabilities": "8a3b232e",
     "modalities": "6399757e"
   }

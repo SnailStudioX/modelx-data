@@ -10,14 +10,14 @@
   },
   "pricing": {
     "input": 0.0525,
-    "output": 3.15
+    "output": 4.5
   },
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-24",
   "_generated": {
     "name": "c8e5bbcc",
     "family": "ba67260b",
     "page_url": "a3fec053",
     "capabilities": "0fa77dc6",
-    "pricing": "1ac4b64a"
+    "pricing": "534d82e1"
   }
 }
