@@ -1,0 +1,28 @@
+{
+  "id": "google/gemini-4-neon-fast",
+  "name": "gemini-4-neon-fast",
+  "created_by": "google",
+  "source": "official",
+  "family": "gemini-4",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 5.4,
+    "output": 27
+  },
+  "last_updated": "2026-11-25",
+  "_generated": {
+    "name": "f398472a",
+    "family": "bd0f233d",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "f200edd8"
+  }
+}

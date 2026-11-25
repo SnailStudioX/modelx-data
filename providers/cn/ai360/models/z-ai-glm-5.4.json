@@ -1,0 +1,36 @@
+{
+  "id": "z-ai/glm-5.4",
+  "name": "z-ai/glm-5.4",
+  "created_by": "zai",
+  "source": "official",
+  "family": "glm-5.4",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 8,
+    "output": 28
+  },
+  "last_updated": "2026-11-25",
+  "_generated": {
+    "name": "1ff7bb27",
+    "family": "98cc017b",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "1ee09a12"
+  }
+}
