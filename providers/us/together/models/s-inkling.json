@@ -8,16 +8,16 @@
   "capabilities": {
     "streaming": true
   },
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-26",
   "_generated": {
     "name": "52636cd3",
     "context_window": "07ef5620",
     "page_url": "b8ca2f93",
     "capabilities": "0fa77dc6",
-    "pricing": "c74fbef8"
+    "pricing": "2209d9dc"
   },
   "pricing": {
-    "input": 0.15,
-    "output": 0.5
+    "input": 0.6,
+    "output": 3
   }
 }
