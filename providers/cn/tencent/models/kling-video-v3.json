@@ -4,7 +4,7 @@
   "created_by": "tencent",
   "source": "official",
   "family": "hunyuan",
-  "model_type": "video",
+  "model_type": "image",
   "capabilities": {
     "streaming": true
   },
@@ -14,19 +14,19 @@
       "image"
     ],
     "output": [
-      "video"
+      "image"
     ]
   },
   "pricing": {
-    "input": 1
+    "input": 720
   },
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-11-27",
   "_generated": {
     "name": "3b920770",
     "family": "39786cc8",
-    "model_type": "4d1b75ca",
+    "model_type": "db8857fe",
     "capabilities": "0fa77dc6",
-    "modalities": "85fd0565",
-    "pricing": "1b478256"
+    "modalities": "bbf9b8bb",
+    "pricing": "dc644ea0"
   }
 }

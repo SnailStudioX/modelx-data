@@ -1,0 +1,32 @@
+{
+  "id": "minimax-video-h3-lite",
+  "name": "minimax-video-h3-lite",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "hunyuan",
+  "model_type": "image",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "pricing": {
+    "input": 480
+  },
+  "last_updated": "2026-11-27",
+  "_generated": {
+    "name": "c172a94c",
+    "family": "39786cc8",
+    "model_type": "db8857fe",
+    "capabilities": "0fa77dc6",
+    "modalities": "bbf9b8bb",
+    "pricing": "360ca7fe"
+  }
+}

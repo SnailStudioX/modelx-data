@@ -8,7 +8,7 @@
   "status": "active",
   "release_date": "2026-11-16",
   "context_window": 1000000,
-  "max_output_tokens": 262000,
+  "max_output_tokens": 262144,
   "model_type": "chat",
   "capabilities": {
     "vision": true,
@@ -33,7 +33,7 @@
   "endpoints": [
     "chat_completions"
   ],
-  "last_updated": "2026-11-26",
+  "last_updated": "2026-11-27",
   "_generated": {
     "name": "c8e5bbcc",
     "family": "ba67260b",
@@ -41,7 +41,7 @@
     "status": "379ac110",
     "release_date": "56e9ce3f",
     "context_window": "8155bc54",
-    "max_output_tokens": "4ed74017",
+    "max_output_tokens": "4a1d32eb",
     "model_type": "d669f408",
     "capabilities": "60af2306",
     "modalities": "6399757e",

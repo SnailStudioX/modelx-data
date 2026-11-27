@@ -1,0 +1,32 @@
+{
+  "id": "minimax-video-v2.3-fast",
+  "name": "minimax-video-v2.3-fast",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "hunyuan",
+  "model_type": "image",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "pricing": {
+    "input": 6
+  },
+  "last_updated": "2026-11-27",
+  "_generated": {
+    "name": "c6d94d40",
+    "family": "39786cc8",
+    "model_type": "db8857fe",
+    "capabilities": "0fa77dc6",
+    "modalities": "bbf9b8bb",
+    "pricing": "95805671"
+  }
+}

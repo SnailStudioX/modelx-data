@@ -3,7 +3,7 @@
   "name": "mistral-moderation-2411",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-11-26",
+  "last_updated": "2026-11-27",
   "status": "deprecated",
   "context_window": 32000,
   "alias": "mistral-moderation",
@@ -36,7 +36,7 @@
     "description": "d5f3c49f",
     "tagline": "a47183ef",
     "tools": "f0c1dc7e",
-    "deprecation_date": "3c0c39b4"
+    "deprecation_date": "d4bfdcda"
   },
   "family": "mistral-moderation",
   "license": "apache-2.0",
@@ -47,5 +47,5 @@
   "tools": [
     "function_calling"
   ],
-  "deprecation_date": "2026-03-31"
+  "deprecation_date": "Mar 31, 2026"
 }

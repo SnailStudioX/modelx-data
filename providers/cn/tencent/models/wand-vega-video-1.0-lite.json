@@ -1,0 +1,32 @@
+{
+  "id": "wand-vega-video-1.0-lite",
+  "name": "wand-vega-video-1.0-lite",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "hunyuan",
+  "model_type": "image",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "pricing": {
+    "input": 768
+  },
+  "last_updated": "2026-11-27",
+  "_generated": {
+    "name": "a6a2d19d",
+    "family": "39786cc8",
+    "model_type": "db8857fe",
+    "capabilities": "0fa77dc6",
+    "modalities": "bbf9b8bb",
+    "pricing": "bddd0896"
+  }
+}

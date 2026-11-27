@@ -1,0 +1,32 @@
+{
+  "id": "vidu-video-q3.0-turbo",
+  "name": "vidu-video-q3.0-turbo",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "hunyuan",
+  "model_type": "image",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "pricing": {
+    "input": 540
+  },
+  "last_updated": "2026-11-27",
+  "_generated": {
+    "name": "1ec2ac9a",
+    "family": "39786cc8",
+    "model_type": "db8857fe",
+    "capabilities": "0fa77dc6",
+    "modalities": "bbf9b8bb",
+    "pricing": "eb352081"
+  }
+}

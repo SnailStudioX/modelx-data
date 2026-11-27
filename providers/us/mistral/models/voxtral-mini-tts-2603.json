@@ -41,7 +41,9 @@
     "capabilities": "1a260abc",
     "modalities": "6399757e",
     "open_weight": "b326b506",
-    "tools": "f0c1dc7e"
+    "tools": "f0c1dc7e",
+    "deprecation_date": "1b6e2956"
   },
-  "last_updated": "2026-11-26"
+  "last_updated": "2026-11-27",
+  "deprecation_date": "Oct 31, 2026"
 }
