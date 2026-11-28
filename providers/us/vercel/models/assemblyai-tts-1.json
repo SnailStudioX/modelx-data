@@ -1,0 +1,21 @@
+{
+  "id": "assemblyai/tts-1",
+  "name": "tts-1",
+  "created_by": "assemblyai",
+  "source": "official",
+  "family": "tts",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 15,
+    "output": 0
+  },
+  "last_updated": "2026-11-28",
+  "_generated": {
+    "name": "1bb636f5",
+    "family": "4e16a2cf",
+    "capabilities": "0fa77dc6",
+    "pricing": "279488b2"
+  }
+}
